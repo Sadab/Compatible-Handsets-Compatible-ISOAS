@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "H:\\BUG\\Handsets-Compatible-ISO1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w480dp-v13\\values-w480dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kim\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\8b81159a8294648f131b491a1eb73777\\res\\values-w480dp\\values.xml",
+                    "from": {
+                        "startLines": "6,10,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "280,567,863",
+                        "endColumns": "61,71,60",
+                        "endOffsets": "337,634,919"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,117,189",
+                        "endColumns": "61,71,60",
+                        "endOffsets": "112,184,245"
+                    }
+                }
+            ]
+        }
+    ]
+}

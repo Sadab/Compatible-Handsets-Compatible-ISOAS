@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "H:\\BUG\\Handsets-Compatible-ISO1\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kim\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\8b81159a8294648f131b491a1eb73777\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,402,508,615,704,805,929,1036,1148,1250,1358,1465,1572",
+                        "endColumns": "119,105,106,88,100,123,106,111,101,107,106,106,121",
+                        "endOffsets": "397,503,610,699,800,924,1031,1143,1245,1353,1460,1567,1689"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,175,281,388,477,578,702,809,921,1023,1131,1238,1345",
+                        "endColumns": "119,105,106,88,100,123,106,111,101,107,106,106,121",
+                        "endOffsets": "170,276,383,472,573,697,804,916,1018,1126,1233,1340,1462"
+                    }
+                }
+            ]
+        }
+    ]
+}

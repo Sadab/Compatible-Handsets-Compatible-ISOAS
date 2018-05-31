@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FP Demo</string>    
+    <string name="action_settings">Settings</string>
+
+    
+    <string name="btn_enrol">Enrol</string>
+    <string name="btn_capture">Capure</string>
+            
+    
+    <string name="tv_ready"></string>    
+    
+    <string name="tv_null"></string>    
+</resources>

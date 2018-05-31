@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "H:\\BUG\\Handsets-Compatible-ISO1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pl\\values-pl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kim\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\8b81159a8294648f131b491a1eb73777\\res\\values-pl\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "278,394,496,604,690,799,918,1027,1136,1235,1344,1455,1563",
+                        "endColumns": "115,101,107,85,108,118,108,108,98,108,110,107,122",
+                        "endOffsets": "389,491,599,685,794,913,1022,1131,1230,1339,1450,1558,1681"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,171,273,381,467,576,695,804,913,1012,1121,1232,1340",
+                        "endColumns": "115,101,107,85,108,118,108,108,98,108,110,107,122",
+                        "endOffsets": "166,268,376,462,571,690,799,908,1007,1116,1227,1335,1458"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "H:\\BUG\\Handsets-Compatible-ISO1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kim\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\8b81159a8294648f131b491a1eb73777\\res\\values-zh-rTW\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "282,377,470,570,652,749,857,953,1049,1144,1241,1336,1436",
+                        "endColumns": "94,92,99,81,96,107,95,95,94,96,94,99,112",
+                        "endOffsets": "372,465,565,647,744,852,948,1044,1139,1236,1331,1431,1544"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,243,343,425,522,630,726,822,917,1014,1109,1209",
+                        "endColumns": "94,92,99,81,96,107,95,95,94,96,94,99,112",
+                        "endOffsets": "145,238,338,420,517,625,721,817,912,1009,1104,1204,1317"
+                    }
+                }
+            ]
+        }
+    ]
+}
